@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 Hey! 🌱
 
-I'm Zach and I make all kinds of software! Once upon a time, I specialised in Web Development (HTML+CSS, JS, PHP) but I now work with such a variety of different technologies that it's difficult to specify my most common platforms (including Python, C++, C#, IDL, bash, etc.). I'm currently working For University College London on a spacecraft image simulator for the SMILE space mission - a joint mission by the [European Space Agency](https://www.esa.int/) and the [Chinese Academy of Sciences](https://english.cas.cn/) due to launch in December 2025. Unfortunately, that code isn't public, but I have a few repositories you can take a look at, if that's what you're here for.
+I'm Zach and I make all kinds of software! Once upon a time, I specialised in Web Development (HTML+CSS, JS, PHP) but I now work with such a variety of different technologies that it's difficult to specify my most common platforms (including Python, C++, C#, IDL, bash, etc.). I'm currently working For University College London on the data processing pipeline for the [SMILE space mission](https://en.wikipedia.org/wiki/SMILE_(spacecraft)) - a joint mission by the [European Space Agency](https://www.esa.int/) and the [Chinese Academy of Sciences](https://english.cas.cn/) due to launch in December 2025. Unfortunately, that code isn't public, but I have a few repositories you can take a look at, if that's what you're here for.
 
 If you're here to look at some of my web projects, you can take a look at the following:
 - [Authwave for Python](https://github.com/Authwave/python-client) is a Python port of Authwave's cryptographically secure user authentication system.
