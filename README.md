@@ -15,7 +15,7 @@ Hey! 🌱
 
 I'm Zach and I make all kinds of software! Once upon a time, I specialised in Web Development (HTML+CSS, JS, PHP) but I now work with such a variety of different technologies that it's difficult to specify my most common platforms (including Python, C++, C#, IDL, bash, etc.). I'm currently working For University College London on the data processing pipeline for the [SMILE space mission](https://en.wikipedia.org/wiki/SMILE_(spacecraft)) - a joint mission by the [European Space Agency](https://www.esa.int/) and the [Chinese Academy of Sciences](https://english.cas.cn/) due to launch in ~~December 2025~~ Summer 2026. This includes a [3D renderer from scratch in C++](https://github.com/Zach-Clare/birp_cpp), as well as a multi-stage machine learning process (which is in very active development).
 
-If you're here to look at some of my web projects, you can take a look at the following:
+The majority of web projects I've worked on are not open source, but here are a few of my own web projects that are:
 - [Authwave for Python](https://github.com/Authwave/python-client) is a Python port of Authwave's cryptographically secure user authentication system.
 - A [JavaScript Image Cropper](https://github.com/Zach-Clare/js-image-cropper) to allow site users to edit their own image uploads on HTML forms. Works effortlessly with touch devices, too.
 - [RoseMask](https://github.com/Zach-Clare/rosemask) is a Chrome extension that helps those with reading difficulties on the web. ~~[You can try it out here](https://chrome.google.com/webstore/detail/rosemask/kijieflhjgpcjmnnoiiaimiffoaignjh)~~ I'm currently having some Google Developer problems. Sorry about that.
